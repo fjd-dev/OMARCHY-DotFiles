@@ -13,9 +13,10 @@ window-padding-y = 14
 confirm-close-surface=false
 resize-overlay = never
 gtk-toolbar-style = flat
+background-opacity = 0.8
 
 # Cursor styling
-cursor-style = "block"
+cursor-style = "underline"
 cursor-style-blink = false
 
 # Cursor styling + SSH session terminfo
